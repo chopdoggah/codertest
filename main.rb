@@ -38,3 +38,5 @@ puts "you withdrew $#{amount}, take the cash out"
 else 
 puts "your balance is #{balance} "
 end
+
+puts "thanks for visitng coder bank"
